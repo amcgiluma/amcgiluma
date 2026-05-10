@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Ansible and Traefik, and getting ready to dive into Kubernetes very soon.**
 
-- 📫 How to reach me **juanminator4000@gmail.com**
+- 📫 How to reach me: **juanminator4000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
