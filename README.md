@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a self-hosted server**
 
-- 🌱 I'm currently learning **Ansible and Traefik, and getting ready to dive into Kubernetes very soon.**
+- 🌱 I'm currently learning **Terraform**, and focusing on **Kubernetes**.
 
 - 📫 How to reach me: **juanminator4000@gmail.com**
 
