@@ -2,9 +2,9 @@
 
 ### I'm deeply passionate about infrastructure. 
 
-- 🔭 I'm currently working on **a self-hosted server**
+- 🔭 I'm currently working on **a self-hosted server** and some AI projects.
 
-- 🌱 I'm currently learning **Terraform**, and focusing on **Kubernetes**.
+- 🌱 I am studying **Linux** thoroughly, and focusing on **git**.
 
 - 📫 How to reach me: **juanminator4000@gmail.com**
 
