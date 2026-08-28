@@ -21,3 +21,7 @@
   <img src="https://skillicons.dev/icons?i=bash,c,cs,css,docker,grafana,html,java,linux,mysql,py" />
   <img src="https://cdn.simpleicons.org/ollama" width="40" height="40" />
 </p>
+
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
